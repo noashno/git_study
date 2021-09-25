@@ -7,3 +7,4 @@
 	绿色：git已经管理起来 ->git commit -m '描述信息'
 	生成版本
 查看已有版本 ->git log
+回滚：git reset --hand 版本号
